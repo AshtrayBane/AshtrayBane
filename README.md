@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AshtrayBane
 - 👀 I’m interested in ...collaboration and building excellent products
-- 🌱 I’m currently learning ... computer science
+- 🌱 I’m currently studying software engineering 
 - 💞️ I’m looking to collaborate on ...private projects
 - 📫 How to reach me ...emorukeith01@gmail
 
